@@ -17,6 +17,9 @@
 
 - (void)saveContext;
 
+// connect to the HWCDSB network using hidden VPN
+
+
 
 
 
