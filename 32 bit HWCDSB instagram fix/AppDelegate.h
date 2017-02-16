@@ -20,7 +20,7 @@
 // connect to the HWCDSB network using hidden VPN
 
 
-
+//This will allow hidden vpn to start working once you are connected to HWCDSB
 
 
 
